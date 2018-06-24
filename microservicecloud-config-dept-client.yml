@@ -44,7 +44,7 @@ info:
 server:
   port: 8001
 spring:
-   profiles: test 
+   profiles: test
    application:
     name: microservicecloud-config-dept-client  #对外暴露的微服务名字
    datasource:
